@@ -1,2 +1,2 @@
 # invie-github
-curso git github
+curso git github by @platzi

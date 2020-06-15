@@ -1,2 +1,4 @@
-# invie-github
-curso git github by @platzi
+# invie
+Las guitarras más locas
+
+http://invie.website
